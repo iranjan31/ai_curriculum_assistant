@@ -166,5 +166,8 @@ cython_debug/
 storage/models/*
 vectorstores/*
 
+# Scratch files
+scratch/*
+
 # macOS system files
 .DS_Store
