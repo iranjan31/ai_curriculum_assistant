@@ -25,3 +25,5 @@ trulens-eval==0.31.0
 llama-cpp-python==0.2.77
 pymupdf==1.24.5
 websockets
+llama-index
+
